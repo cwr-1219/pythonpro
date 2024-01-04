@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdb53c29-f447-4148-8fb5-98357bdbacb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YNd9BBioKKACnte0Ex73JNrLac" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Mypy\房屋数据分析预测\views\page\templates" />
+      <recent name="D:\Mypy\链家网房屋数据分析预测\static" />
+      <recent name="D:\Mypy\链家网房屋数据分析预测\views\page\templates" />
+      <recent name="D:\Mypy\链家网房屋数据分析预测\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mypy\链家网房屋数据分析预测\views\user\templates" />
+      <recent name="D:\Mypy\链家网房屋数据分析预测\views\user" />
+      <recent name="D:\Mypy\链家网房屋数据分析预测\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.房屋数据分析预测">
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/链家网房屋数据分析预测/templates/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="多变量线性回归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="链家网房屋数据分析预测" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/WeChat Files/wxid_hw00e2m2s6k322/FileStorage/File/2023-12" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/WeChat Files/wxid_hw00e2m2s6k322/FileStorage/File/2023-12/多变量线性回归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="链家网房屋数据分析预测" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pred" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pred/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_cloud_picture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="链家网房屋数据分析预测" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_cloud_picture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="房屋数据分析预测" type="Python.FlaskServer">
+      <option name="flaskDebug" value="true" />
+      <module name="链家网房屋数据分析预测" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\ProgramData\anaconda3\envs\Flaskpro\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="链家网房屋数据分析预测" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flask server.房屋数据分析预测" />
+      <item itemvalue="Flask server.Flask (app.py)" />
+      <item itemvalue="JavaScript Debug.login.html" />
+      <item itemvalue="Python.word_cloud_picture" />
+      <item itemvalue="Python.index" />
+      <item itemvalue="Python.多变量线性回归" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.多变量线性回归" />
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.word_cloud_picture" />
+        <item itemvalue="JavaScript Debug.login.html" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdb53c29-f447-4148-8fb5-98357bdbacb8" name="Default Changelist" comment="" />
+      <created>1700369816314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700369816314</updated>
+      <workItem from="1700369829845" duration="5545000" />
+      <workItem from="1700375858809" duration="22415000" />
+      <workItem from="1700478916527" duration="8210000" />
+      <workItem from="1700549478789" duration="4540000" />
+      <workItem from="1700571007821" duration="7954000" />
+      <workItem from="1700633081914" duration="17568000" />
+      <workItem from="1700741518589" duration="5221000" />
+      <workItem from="1701081664633" duration="10526000" />
+      <workItem from="1701178010919" duration="1600000" />
+      <workItem from="1701223746234" duration="27777000" />
+      <workItem from="1701403389594" duration="4414000" />
+      <workItem from="1701439337101" duration="85000" />
+      <workItem from="1701498573497" duration="22340000" />
+      <workItem from="1701652679923" duration="101000" />
+      <workItem from="1701659563128" duration="2855000" />
+      <workItem from="1701669036019" duration="807000" />
+      <workItem from="1701949393840" duration="808000" />
+      <workItem from="1702216138314" duration="3224000" />
+      <workItem from="1702265046557" duration="3848000" />
+      <workItem from="1702294549151" duration="9184000" />
+      <workItem from="1702388387188" duration="49000" />
+      <workItem from="1702791545790" duration="21437000" />
+      <workItem from="1702884011365" duration="202000" />
+      <workItem from="1703063176035" duration="328000" />
+      <workItem from="1703499263520" duration="478000" />
+      <workItem from="1703508828250" duration="490000" />
+      <workItem from="1703510435327" duration="794000" />
+      <workItem from="1703644573349" duration="4507000" />
+      <workItem from="1703829566407" duration="658000" />
+      <workItem from="1704112058031" duration="3893000" />
+      <workItem from="1704162113385" duration="133000" />
+      <workItem from="1704164969824" duration="2920000" />
+      <workItem from="1704242818961" duration="3053000" />
+      <workItem from="1704251927074" duration="139000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1704252064644">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="309" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1700485551533" />
+    <state x="561" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.920@0.0.1707.920" timestamp="1704252064644" />
+    <state x="615" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1700577333953">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="615" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1700569625400" />
+    <state x="615" y="239" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.920@0.0.1707.920" timestamp="1700577333953" />
+    <state x="634" y="216" key="FileChooserDialogImpl" timestamp="1703063423708">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="634" y="216" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1703063423708" />
+    <state width="1663" height="138" key="GridCell.Tab.0.bottom" timestamp="1704247256587">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="2005" height="177" key="GridCell.Tab.0.bottom/0.0.1707.920/-2560.2.2048.1112@-2560.2.2048.1112" timestamp="1704115984725" />
+    <state width="1663" height="139" key="GridCell.Tab.0.bottom/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1703514972340" />
+    <state width="1663" height="138" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1704247256587" />
+    <state width="1663" height="138" key="GridCell.Tab.0.center" timestamp="1704247256587">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="2005" height="177" key="GridCell.Tab.0.center/0.0.1707.920/-2560.2.2048.1112@-2560.2.2048.1112" timestamp="1704115984725" />
+    <state width="1663" height="139" key="GridCell.Tab.0.center/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1703514972340" />
+    <state width="1663" height="138" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1704247256587" />
+    <state width="1663" height="138" key="GridCell.Tab.0.left" timestamp="1704247256587">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="2005" height="177" key="GridCell.Tab.0.left/0.0.1707.920/-2560.2.2048.1112@-2560.2.2048.1112" timestamp="1704115984724" />
+    <state width="1663" height="139" key="GridCell.Tab.0.left/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1703514972340" />
+    <state width="1663" height="138" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1704247256587" />
+    <state width="1663" height="138" key="GridCell.Tab.0.right" timestamp="1704247256587">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state width="2005" height="177" key="GridCell.Tab.0.right/0.0.1707.920/-2560.2.2048.1112@-2560.2.2048.1112" timestamp="1704115984725" />
+    <state width="1663" height="139" key="GridCell.Tab.0.right/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1703514972340" />
+    <state width="1663" height="138" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1704247256587" />
+    <state x="512" y="101" key="SettingsEditor" timestamp="1703829628943">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="512" y="101" key="SettingsEditor/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1701178051825" />
+    <state x="512" y="101" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1703829628943" />
+    <state x="538" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1704334192331">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="-1915" y="346" key="com.intellij.ide.util.TipDialog/0.0.1707.920/-2560.2.2048.1112@-2560.2.2048.1112" timestamp="1704112057972" />
+    <state x="538" y="285" key="com.intellij.ide.util.TipDialog/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1703644579615" />
+    <state x="538" y="285" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1704334192331" />
+    <state x="128" y="62" width="1557" height="700" key="dock-window-1" timestamp="1701609008161">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="128" y="62" width="1557" height="700" key="dock-window-1/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1701609008161" />
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1702812634310">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="516" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1707.920/-2560.2.2048.1112@0.0.1707.920" timestamp="1702812634310" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$spider_address.coverage" NAME="spider_address Coverage Results" MODIFIED="1700385606914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/$index.coverage" NAME="index Coverage Results" MODIFIED="1702814834725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pred" />
+    <SUITE FILE_PATH="coverage/$user.coverage" NAME="user Coverage Results" MODIFIED="1700575064174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/views/user" />
+    <SUITE FILE_PATH="coverage/$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1700576834845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$createTable.coverage" NAME="createTable Coverage Results" MODIFIED="1700380670035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$spider_data_main.coverage" NAME="spider_data_main Coverage Results" MODIFIED="1700482322564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/$Flask__app_py___1_.coverage" NAME="Flask (app.py) (1) Coverage Results" MODIFIED="1700485538561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/$db.coverage" NAME="db Coverage Results" MODIFIED="1700373798040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$word_cloud_picture.coverage" NAME="word_cloud_picture Coverage Results" MODIFIED="1701093238764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="房屋数据分析预测 Coverage Results" MODIFIED="1704245708968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
